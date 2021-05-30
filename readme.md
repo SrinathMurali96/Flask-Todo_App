@@ -1,4 +1,4 @@
-### Simple Flask Todo App
+### Todo App using Flask
 
 #### Setup
 <hr>
